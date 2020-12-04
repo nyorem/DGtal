@@ -1,5 +1,6 @@
 SET(TESTS_SRC
   testChordGenericStandardPlaneComputer
+  testDigitalPlanePredicate
   )
 
 FOREACH(FILE ${TESTS_SRC})
